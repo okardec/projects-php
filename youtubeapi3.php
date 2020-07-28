@@ -3,7 +3,7 @@
  * API do Youtube v3
  * por Allan Kardec  (07/05/2015)
  */
-class YoutubeAPI3 implements iAPI {
+class YoutubeAPI3 {
 
 
 	/**
